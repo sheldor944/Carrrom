@@ -1,0 +1,6 @@
+John 1000
+Anna 690
+Emily 4200
+Luther 669
+Hilbert 41
+xyz 34
